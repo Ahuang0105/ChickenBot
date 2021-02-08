@@ -1,6 +1,6 @@
 # ChickenBot
 
-I created this bot to learn how to use Python. I followed a few videos on youtube to learn the function included in Discord.py. It's recommended to run this program on https://repl.it/ to remotely hosted this bot, so it can stayed online.
+I created this bot to learn how to use Python. I followed a few videos on YouTube to learn the function included in Discord.py. It's recommended to run this program on https://repl.it/ to remotely hosted this bot, so it can stayed online. The music function doesn't work well, so I will rewrite a new version soon. 
 
 
 
