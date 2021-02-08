@@ -26,9 +26,7 @@ client = commands.Bot(
 # Bot status list
 status = ['chicken dinner', 'his feathers!', 'PUBG!']
 # Bad words list, if any user said bad words in the server
-#bad_words = ['fuck', 'shit', 'piss', 'shit', 'dick', 'asshole', 'bitch', 'bastard', 'damn', 'cunt']
-
-bad_words = []
+bad_words = ['fuck', 'shit', 'piss', 'shit', 'dick', 'asshole', 'bitch', 'bastard', 'damn', 'cunt']
 
 # To comfirmed discord bot is login
 @client.event
