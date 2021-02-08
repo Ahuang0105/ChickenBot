@@ -19,7 +19,7 @@ I created this bot to learn how to use Python. I followed a few videos on youtub
       &nbspjoin    This command makes the bot join the voice channel <br>
       &nbspjoke    This command returns a random joke  <br>
       &nbspleave   This command stops makes the bot leave the voice channel <br>
-      &nbspnews    This command returns three pc game news <br>
+      &nbspnews    This command returns the amount of pc game news user want <br>
       &nbsppause   This command pauses the song <br>
       &nbspplay    This command plays songs <br>
       &nbspqueue   This command adds a song to the queue <br>
